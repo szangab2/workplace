@@ -2,4 +2,4 @@
 body {background-color:lightgrey}
 header {box-shadow:5px 5px 6px black; border-left:10px black}
 h1 { text-decoration:underline; color:darkblue; text-align:center}
-p {size:2em; color:blue}
+p {font-size:2em; color:blue}
