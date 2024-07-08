@@ -1,4 +1,5 @@
 * {box-sizing:border-box}
 body {background-color:lightgrey}
 header {box-shadow:5px 5px 6px black}
+h1 {margin-left:auto; margin-right:auto}
 p {size:1.5 em; color:blue}
